@@ -1,7 +1,7 @@
 from App.ZApplication import connection_open_hooks
 from ZServer.DebugLogger import log as trace_log
 
-from zope.thread import local
+from threading import local
 _data = local()
 
 def onConnectionOpened(conn):
