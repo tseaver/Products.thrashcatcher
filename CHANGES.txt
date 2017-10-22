@@ -1,5 +1,0 @@
-thrashcatcher Product Changelog
-
-  thrashcatcher-0.1 (2007-10-11)
-
-    Initial public release.
